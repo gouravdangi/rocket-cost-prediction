@@ -1,6 +1,6 @@
 # rocket-cost-prediction
 
-[embed]https://github.com/gouravdangi/rocket-cost-prediction/blob/25a77f821482237ce0bde2a855c8be6c5e9c17d2/ds-capstone-template-coursera%202.pdf[/embed]
+[embed]https://github.com/gouravdangi/rocket-cost-prediction/blob/25a77f821482237ce0bde2a855c8be6c5e9c17d2/ds-capstone-template-coursera%202.pdf[embed]
 
 Here we predicted if the falcon 9 first stage will land successfully as SpaceX advertise Falcon 9  to be reusable rocket, hence this affects the price of launch.
 
