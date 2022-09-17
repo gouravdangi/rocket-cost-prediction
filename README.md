@@ -12,8 +12,14 @@ In this capstone, I take the role of a data scientist working for a new rocket c
 ## Built with :
 
 python
+
 watson studio
+
 IBM db2 / sql
+
 library : plotly, folium, seaborn
+
 Algorithms : KNN, SVG, Decision Tree, Logistic Regression
+
+
 Data and Methods for cleaning : Space-X API, wikipedia (web scrapping), binning/ hot one encoding, deleting missing values
